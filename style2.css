@@ -96,6 +96,7 @@ img {
 .nav_logo {
     width: 220px;
     height: auto;
+    cursor: pointer;
 }
 
 .nav_menu {
