@@ -120,7 +120,7 @@
     margin-bottom: 20px;
 }
 
-.ads-banner {
+.ads_banner {
         display: block;
     }
 
@@ -170,7 +170,7 @@
         margin: 50px 20px;
     }
 
-    .ads-banner {
+    .ads_banner {
         display: none;
     }
 
