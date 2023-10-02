@@ -145,6 +145,7 @@ img {
 
 .app-content {
     display: flex;
+    justify-content: space-evenly;
     padding: 100px 0;
 }
 
